@@ -269,7 +269,7 @@ module components
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin-bottom: 128px;
+    margin-bottom: 80px;
 
 }
 .mouse{
